@@ -1,6 +1,6 @@
 # Jaspr + Dart — Türkçe Rehber
 
-> Sıfırdan gerçek projeye: kurulumdan deployment'a, component mimarisinden state yönetimine, SSR/SSG'den test stratejilerine kadar **resmi Jaspr dökümantasyonu** temel alınarak hazırlanmış aşamalı Türkçe kurs.
+> Sıfırdan gerçek projeye: kurulumdan deployment'a, component mimarisinden state yönetimine, SSR/SSG'den test stratejilerine kadar **resmi Jaspr dokümantasyonu** temel alınarak hazırlanmış aşamalı Türkçe kurs.
 
 ![Jaspr](https://img.shields.io/badge/Jaspr-v0.23.x-1a5a8a)
 ![Dart](https://img.shields.io/badge/Dart-3.10%2B-0175C2?logo=dart&logoColor=white)
@@ -8,7 +8,7 @@
 ![Bölümler](https://img.shields.io/badge/İçerik-18%20bölüm%20%2B%204%20ek-3f6b46)
 ![Lisans](https://img.shields.io/badge/Lisans-MIT-green)
 
-Bu döküman, **Dart** dilini bilen ve web geliştirmeye **Jaspr** framework'ü ile adım atmak isteyen geliştiriciler için hazırlanmış, aşamalı bir kurs niteliğindedir. Resmi Jaspr dökümantasyonu (`docs.jaspr.site`) esas alınmış; eksik kalan pratik noktalar deneyimsel bilgilerle tamamlanmıştır. Döküman hazırlandığı tarihte güncel ana sürüm **Jaspr 0.23.x**'tir.
+Bu doküman, **Dart** dilini bilen ve web geliştirmeye **Jaspr** framework'ü ile adım atmak isteyen geliştiriciler için hazırlanmış, aşamalı bir kurs niteliğindedir. Resmi Jaspr dokümantasyonu (`docs.jaspr.site`) esas alınmış; eksik kalan pratik noktalar deneyimsel bilgilerle tamamlanmıştır. Doküman hazırlandığı tarihte güncel ana sürüm **Jaspr 0.23.x**'tir.
 
 ---
 
@@ -65,8 +65,8 @@ Bu döküman, **Dart** dilini bilen ve web geliştirmeye **Jaspr** framework'ü 
 1. Her bölümü sırayla oku; bölümler birbirinin üzerine inşa edilir.
 2. Kod örneklerini kopyala-yapıştır yapma; kendi projende elle yaz.
 3. Her bölüm sonundaki **Alıştırma** görevini tamamlamadan devam etme.
-4. Takıldığında [Ek B — Sık Yapılan Hatalar](docs/ek-b-sik-hatalar.md)'a ve resmi dökümantasyona dön.
+4. Takıldığında [Ek B — Sık Yapılan Hatalar](docs/ek-b-sik-hatalar.md)'a ve resmi dokümantasyona dön.
 
 ---
 
-Bu rehber resmi Jaspr dökümantasyonu (docs.jaspr.site, v0.23.x) temel alınarak hazırlanmıştır. — Eylül 2026
+Bu rehber resmi Jaspr dokümantasyonu (docs.jaspr.site, v0.23.x) temel alınarak hazırlanmıştır. — Eylül 2026

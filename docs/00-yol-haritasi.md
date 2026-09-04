@@ -1,6 +1,6 @@
 # 0. Başlamadan Önce: Yol Haritası ve Ön Bilgiler
 
-Bu döküman, Dart dilini bilen ve web geliştirmeye **Jaspr** framework'ü ile adım atmak isteyen geliştiriciler için hazırlanmış, aşamalı bir kurs niteliğindedir. Resmi Jaspr dökümantasyonu (`docs.jaspr.site`) esas alınmış; eksik kalan pratik noktalar deneyimsel bilgilerle tamamlanmıştır. Döküman hazırlandığı tarihte güncel ana sürüm **Jaspr 0.23.x**'tir.
+Bu doküman, Dart dilini bilen ve web geliştirmeye **Jaspr** framework'ü ile adım atmak isteyen geliştiriciler için hazırlanmış, aşamalı bir kurs niteliğindedir. Resmi Jaspr dokümantasyonu (`docs.jaspr.site`) esas alınmış; eksik kalan pratik noktalar deneyimsel bilgilerle tamamlanmıştır. Doküman hazırlandığı tarihte güncel ana sürüm **Jaspr 0.23.x**'tir.
 
 ## 0.1 Öğrenme Yol Haritası
 
@@ -16,7 +16,7 @@ Bu döküman, Dart dilini bilen ve web geliştirmeye **Jaspr** framework'ü ile 
 
 - **Dart temelleri (zorunlu):** Değişkenler, fonksiyonlar, sınıflar, null safety, `async/await`. Bunları bilmiyorsan önce `dart.dev`'deki dil turunu tamamla.
 - **Temel HTML/CSS bilgisi (zorunlu):** Jaspr, Flutter gibi canvas'a çizim yapmaz; gerçek HTML elementleri ve CSS üretir. `div`, `p`, `class`, flexbox gibi kavramlara aşina olmalısın.
-- **Flutter widget sistemi (şiddetle önerilir):** `StatelessWidget`, `StatefulWidget`, `setState`, widget ağacı kavramları. Jaspr bunların neredeyse birebir karşılığını kullanır; resmi dökümantasyon da bu bilgiyi varsayar.
+- **Flutter widget sistemi (şiddetle önerilir):** `StatelessWidget`, `StatefulWidget`, `setState`, widget ağacı kavramları. Jaspr bunların neredeyse birebir karşılığını kullanır; resmi dokümantasyon da bu bilgiyi varsayar.
 - **HTTP ve REST API mantığı (önerilir):** 8. bölümden itibaren gerekecek.
 
 ## 0.3 Önerilen Çalışma Sırası
@@ -24,7 +24,7 @@ Bu döküman, Dart dilini bilen ve web geliştirmeye **Jaspr** framework'ü ile 
 1. Her bölümü sırayla oku; bölümler birbirinin üzerine inşa edilir.
 2. Kod örneklerini kopyala-yapıştır yapma; kendi projende elle yaz. Özellikle 3. bölümden itibaren yanında açık bir `jaspr serve` oturumu olsun.
 3. Her bölüm sonundaki **Alıştırma** kutusundaki görevi tamamlamadan bir sonraki bölüme geçme.
-4. Takıldığında Ek B'deki "Sık Yapılan Hatalar"a ve resmi dökümantasyona dön.
+4. Takıldığında Ek B'deki "Sık Yapılan Hatalar"a ve resmi dokümantasyona dön.
 5. Bölüm 18'deki projeleri sıfırdan, bu rehbere bakmadan yazmaya çalış; sadece takıldığında başvur.
 
 > [!NOTE]
